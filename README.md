@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gerrymiller/gerrymiller/blob/master/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/gerrymiller) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gerrymiller/gerrymiller/blob/master/LICENSE)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerrymiller&show_icons=true&theme=radical)
