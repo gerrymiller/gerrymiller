@@ -1,4 +1,5 @@
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerrymiller&show_icons=true&theme=radical)
 
